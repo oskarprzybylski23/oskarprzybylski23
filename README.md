@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarprzybylski23&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="oskarprzybylski23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarprzybylski23&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="oskarprzybylski23" />
 </p>
 
 🎉 Thanks for stopping by! Let's build something amazing together! 🚀

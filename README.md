@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Oskar! 🚀</h1>
-<h3 align="center">A London-based developer in the making, diving deep into the world of full stack web development! 🌐✨</h3>
+<h3 align="center">A London-based developer, building mostly with Python and Java-Script 🌐✨</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lives-London-1abc9c?style=flat-square" alt="Location: London">
@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on [Discogs to Spotify playlist creator](https://github.com/oskarprzybylski23/Discogs-Spotify-Playlist-Creator.git)
-- 🌱 I’m currently learning **full stack web development** with great enthusiasm and a sprinkle of curiosity!
+- 🌱 I’m currently learning **full stack web development**
 - 👯 I’m looking to collaborate on **cool and fun projects that challenge my creativity**.
 - 💬 Ask me about **music, audio engineering, architecture, or anything under the sun! I'm all ears.** 🎶☀️
 

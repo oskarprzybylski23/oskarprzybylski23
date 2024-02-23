@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/badge/Loves-Music%20%E2%99%AB%EF%B8%8F%2C%20Architecture%20%E2%9C%A8%2C%20Coding%20%F0%9F%9A%80-ff69b4?style=flat-square" alt="Loves: Music, Architecture, Coding">
 </p>
 
-- 🔭 I’m currently working on [Discogs to Spotify playlist creator](https://github.com/oskarprzybylski23/Discogs-Spotify-Playlist-Creator.git)
-- 🌱 I’m currently learning **full stack web development**
-- 👯 I’m looking to collaborate on **cool and fun projects that challenge my creativity**.
+- 🔭 I’m currently working on **[Discogs to Spotify playlist creator](https://github.com/oskarprzybylski23/Discogs-Spotify-Playlist-Creator.git)**
+- 🌱 I’m currently learning **[Andrew Ng's/Stanford Machine Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)**
+- 👯 I’m looking to collaborate on **cool projects that challenge my creativity and look to make a difference**.
 - 💬 Ask me about **music, audio engineering, architecture, or anything under the sun! I'm all ears.** 🎶☀️
 
 <h3 align="left">Connect with me:</h3>

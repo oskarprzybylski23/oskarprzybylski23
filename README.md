@@ -1,46 +1,57 @@
-<h1 align="center">👋 Hi there, I'm Oskar! 🚀</h1>
-<h3 align="center">A London-based developer, building mostly with Python and Java-Script 🌐✨</h3>
-
-**<a style="text-align:center" href="https://oskarprzybylski23.github.io/Portfolio-Website/">See my Portfolio!</a>**
-
+<h1 align="center">👋 Hi there, I'm Oskar!</h1>
+<h3 align="center">I'm a London-based developer, building mostly with Python and Java-Script.</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Lives-London-1abc9c?style=flat-square" alt="Location: London">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Development-blueviolet?style=flat-square" alt="Focus: Full Stack Web Development">
-  <img src="https://img.shields.io/badge/Loves-Music%20%E2%99%AB%EF%B8%8F%2C%20Architecture%20%E2%9C%A8%2C%20Coding%20%F0%9F%9A%80-ff69b4?style=flat-square" alt="Loves: Music, Architecture, Coding">
+  <img src="https://img.shields.io/badge/Lives-London,_UK-74B88D?style=flat-square" alt="Location: London">
 </p>
-
-- 🔭 I’m currently working on **[Discogs to Spotify playlist creator](https://github.com/oskarprzybylski23/Discogs-Spotify-Playlist-Creator.git)**
-- 🌱 I’m currently learning **[Andrew Ng's/Stanford Machine Learning Course](https://www.coursera.org/specializations/machine-learning-introduction)**
-- 👯 I’m looking to collaborate on **cool projects that challenge my creativity and look to make a difference**.
-- 💬 Ask me about **music, audio engineering, architecture, or anything under the sun! I'm all ears.** 🎶☀️
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/oskar-przybylski" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oskar-przybylski" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oskar-przybylski" height="21" />
   </a>
 </p>
+<p align="center" >
+  <a href="https://oskarprzybylski23.github.io/Portfolio-Website/">My Portfolio Page</a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typerscript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<br>
+<br>
+
+<ul>
+  <li>👷‍♂️ I’m currently working on <a href="https://github.com/oskarprzybylski23/Discogs-Spotify-Playlist-Creator.git" style="font-weight: bold;">Discofy</a></li>
+  <li>📚 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-introduction" style="font-weight: bold;">Andrew Ng's/Stanford Machine Learning Course</a></li>
+</ul>
+
+<br>
+<br>
+
+<h3 align="center">Things I code with:</h3>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-4E7A7C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-3C7A9E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-4E7A7C?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="expressjs" src="https://img.shields.io/badge/-Express.js-48B7BD?style=flat-square&logo=express&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-5EBFF7?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-749FB8?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-3A5645?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="flask" src="https://img.shields.io/badge/-Flask-74B876?style=flat-square&logo=Matplotlib&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-Pandas-74B4B8?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="numpy" src="https://img.shields.io/badge/-Numpy-69786F?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-74B88D?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-749FB8?style=flat-square&logo=Matplotlib&logoColor=white" />
+  <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-839584?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-26382D?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-69786A?style=flat-square&logo=git&logoColor=white" />
+  <img alt="pop!_os" src="https://img.shields.io/badge/-Pop!_OS-697778?style=flat-square&logo=Pop!_OS&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/-Linux-26382D?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="visual-studio-code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-90A278?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="pycharm" src="https://img.shields.io/badge/-PyCharm-43853d?style=flat-square&logo=pycharm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-BFC073?style=flat-square&logo=prettier&logoColor=white" />
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarprzybylski23&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="oskarprzybylski23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarprzybylski23&show_icons=true&theme=gotham&locale=en&layout=donut" alt="oskarprzybylski23" />
 </p>
 
-🎉 Thanks for stopping by! Let's build something amazing together! 🚀
+<p align="center">Thanks for stopping by! 💻 </p>

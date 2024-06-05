@@ -34,7 +34,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-5EBFF7?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-749FB8?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-3A5645?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="flask" src="https://img.shields.io/badge/-Flask-74B876?style=flat-square&logo=Matplotlib&logoColor=white" />
+  <img alt="flask" src="https://img.shields.io/badge/-Flask-74B876?style=flat-square&logo=flask&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/-Pandas-74B4B8?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/-Numpy-69786F?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-74B88D?style=flat-square&logo=jupyter&logoColor=white" />

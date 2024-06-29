@@ -47,6 +47,7 @@
   <img alt="visual-studio-code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-90A278?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="pycharm" src="https://img.shields.io/badge/-PyCharm-43853d?style=flat-square&logo=pycharm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-BFC073?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Cypress-BF9271?style=flat-square&logo=cypress&logoColor=white" />
   
 </p>
 

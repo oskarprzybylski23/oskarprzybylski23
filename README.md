@@ -38,11 +38,11 @@
   <img alt="pandas" src="https://img.shields.io/badge/-Pandas-74B4B8?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/-Numpy-69786F?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-74B88D?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-749FB8?style=flat-square&logo=Matplotlib&logoColor=white" />
+  <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-749FB8?style=flat-square&logo=matplotlib&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-839584?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/-Figma-26382D?style=flat-square&logo=figma&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-69786A?style=flat-square&logo=git&logoColor=white" />
-  <img alt="pop!_os" src="https://img.shields.io/badge/-Pop!_OS-697778?style=flat-square&logo=Pop!_OS&logoColor=white" />
+  <img alt="swagger" src="https://img.shields.io/badge/-Swagger-697778?style=flat-square&logo=Swagger&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-26382D?style=flat-square&logo=linux&logoColor=white" />
   <img alt="visual-studio-code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-90A278?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="pycharm" src="https://img.shields.io/badge/-PyCharm-43853d?style=flat-square&logo=pycharm&logoColor=white" />

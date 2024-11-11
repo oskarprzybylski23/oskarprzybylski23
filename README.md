@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Oskar!</h1>
+<h1 align="center"> Hi there, I'm Oskar!</h1>
 <h3 align="center">I'm a London-based developer, building mostly with Python and Java-Script.</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Lives-London,_UK-74B88D?style=flat-square" alt="Location: London">
@@ -12,15 +12,6 @@
   <a href="https://oskarprzybylski23.github.io/Portfolio-Website/">My Portfolio Page</a>
 </p>
 
-<br>
-<br>
-
-<ul>
-  <li>👷‍♂️ I’m currently working on <a href="https://github.com/oskarprzybylski23/Discogs-Spotify-Playlist-Creator.git" style="font-weight: bold;">Discofy</a></li>
-  <li>📚 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-introduction" style="font-weight: bold;">Andrew Ng's/Stanford Machine Learning Course</a></li>
-</ul>
-
-<br>
 <br>
 
 <h3 align="center">Things I code with:</h3>
@@ -52,7 +43,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarprzybylski23&show_icons=true&theme=gotham&locale=en&layout=donut" alt="oskarprzybylski23" />
+  <!---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarprzybylski23&show_icons=true&theme=gotham&locale=en&layout=donut" alt="oskarprzybylski23" />
 </p>
+-->
 
 <p align="center">Thanks for stopping by! 💻 </p>

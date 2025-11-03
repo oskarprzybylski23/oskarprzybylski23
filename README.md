@@ -8,11 +8,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oskar-przybylski" height="21" />
   </a>
 </p>
-<p align="center" >
-  <a href="https://oskarprzybylski23.github.io/Portfolio-Website/">My Portfolio Page</a>
-</p>
-
-<br>
 
 <h3 align="center">Things I code with:</h3>
 <p align="center">
